@@ -27,10 +27,10 @@ This project demonstrates how to handle imbalanced datasets using the **RandomOv
 
 ## 🚀 How to Run
 
-1. Clone the repository
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
+1. Clone this repository
+2. Install required packages (scikit-learn, matplotlib, etc.)
+3. Open the notebook in Jupyter or Colab
+4. Run all cells.
 ---
 
 **📌 Don't forget to star ⭐ the repository if you found it helpful!**
